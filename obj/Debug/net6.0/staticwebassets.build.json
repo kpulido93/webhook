@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "5r4nd5sPoG0RpLhFCTC1sz347SH5qAVWjBgnVu4rxmY=",
+  "Source": "Webhook",
+  "BasePath": "_content/Webhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Webhook\\wwwroot",
+      "Source": "Webhook",
+      "ContentRoot": "D:\\repos\\Webhook\\wwwroot\\",
+      "BasePath": "_content/Webhook",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

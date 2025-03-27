@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\webhook-inventario\\Webhook.csproj": {}
+    "D:\\repos\\webhook-inventario\\Webhook-Inventario.csproj": {}
   },
   "projects": {
-    "D:\\repos\\webhook-inventario\\Webhook.csproj": {
+    "D:\\repos\\webhook-inventario\\Webhook-Inventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\webhook-inventario\\Webhook.csproj",
-        "projectName": "Webhook",
-        "projectPath": "D:\\repos\\webhook-inventario\\Webhook.csproj",
+        "projectUniqueName": "D:\\repos\\webhook-inventario\\Webhook-Inventario.csproj",
+        "projectName": "Webhook-Inventario",
+        "projectPath": "D:\\repos\\webhook-inventario\\Webhook-Inventario.csproj",
         "packagesPath": "C:\\Users\\nivek\\.nuget\\packages\\",
         "outputPath": "D:\\repos\\webhook-inventario\\obj\\",
         "projectStyle": "PackageReference",

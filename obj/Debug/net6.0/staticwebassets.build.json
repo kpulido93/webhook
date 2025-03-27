@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5r4nd5sPoG0RpLhFCTC1sz347SH5qAVWjBgnVu4rxmY=",
+  "Hash": "BMnPm2moUmMnHyYzHPB6ee3ED8qQM7Yx3zrsZA0YhxY=",
   "Source": "Webhook",
   "BasePath": "_content/Webhook",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Webhook\\wwwroot",
       "Source": "Webhook",
-      "ContentRoot": "D:\\repos\\Webhook\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\webhook-inventario\\wwwroot\\",
       "BasePath": "_content/Webhook",
       "Pattern": "**"
     }
